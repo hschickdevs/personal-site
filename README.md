@@ -1,3 +1,2 @@
-# Web files for my basic personal website:
+# This repository contains the web files for my simple personal website hosted at:
 
-[harrisonschick.com](http://www.harrisonschick.com)
